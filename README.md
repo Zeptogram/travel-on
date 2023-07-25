@@ -1,10 +1,10 @@
 # Analisi e Progettazione del Sofware - 13/06/22
 ## Documenti
-[Documentazione Pre Appello (File PDF)](/PDF_PREAPPELLO_TRAVEL_ON_869184_869218_869441.pdf)
+[Documentazione Pre Appello (File PDF)](PDF_PREAPPELLO_TRAVEL_ON_869184_869218_869441.pdf)
 
-[Casi d'Uso (Cartella)](/Casi_d'uso)
+[Casi d'Uso (Cartella)](TravelOn/Casi_d'uso)
 
-[Contratti (Cartella)](/Contratti)
+[Contratti (Cartella)](TravelOn/Contratti)
 
 ## Autori 
 
