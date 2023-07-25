@@ -6,11 +6,12 @@
 
 [Contratti (Cartella)](/Contratti)
 
-<hr>
 ## Autori 
 
 - Gargiulo Elio - Matricola: 869184
 - Mocellin Andrea - Matricola: 869218
 - Rigato Stefano - Matricola: 869441
+
+<hr>
 
 Ogni membro del gruppo ha contribuito alla realizzazione del progetto e del File PDF.
